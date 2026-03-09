@@ -12,7 +12,6 @@ export default function Nav() {
           <Link href="/about" className="hover:text-accent transition-colors">About</Link>
           <Link href="/blog" className="hover:text-accent transition-colors">Blog</Link>
           <Link href="/gallery" className="hover:text-accent transition-colors">Gallery</Link>
-          <Link href="/studio" className="hover:text-accent transition-colors text-accent">📝 Studio</Link>
         </div>
       </div>
     </nav>
